@@ -4,4 +4,9 @@
 
 Created by https://sketchfab.com/Inuciian
 
-Usage for A-Frame scripting
+Usage for teaching A-Frame
+
+
+'Duck' in gltf format, downloaded from https://poly.google.com/view/1cAO2jZEz1L  Created by Robert Mark
+
+Usage for teaching A-Frame
